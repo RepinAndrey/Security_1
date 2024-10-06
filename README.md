@@ -23,7 +23,17 @@
 >Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 >Приведите ответ в свободной форме.
 
+Разрешенные службы:
+
 ![скриншот ](https://github.com/RepinAndrey/Security_1/blob/main/img/1.png)
+
+Примеры уязвимостей из базы уязвимостей:
+
+![скриншот ](https://github.com/RepinAndrey/Security_1/blob/main/img/2.png)
+
+![скриншот ](https://github.com/RepinAndrey/Security_1/blob/main/img/3.png)
+
+![скриншот ](https://github.com/RepinAndrey/Security_1/blob/main/img/4.png)
 
 ### Задание 2
 
@@ -37,4 +47,5 @@
 >Как отвечает сервер?
 >Приведите ответ в свободной форме.
 
-![скриншот ](https://github.com/RepinAndrey/Security_1/blob/main/img/1.png)
+
+
